@@ -1,12 +1,12 @@
 import React from "react";
-import UseRefExample3 from "./components/UseRefExample3";
+import UseMemoExample from "./components/UseMemoExample";
 
 const App = () => {
     
 
     return (
        <div className="container mt-5">
-           <UseRefExample3 />
+           <UseMemoExample />
        </div>
     )
 }
