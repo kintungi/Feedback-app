@@ -1,12 +1,13 @@
 import React from "react";
-import UseMemoExample from "./components/UseMemoExample";
+import CustomHookExample2 from "./components/CustomHookExample2";
 
 const App = () => {
+    
     
 
     return (
        <div className="container mt-5">
-           <UseMemoExample />
+           <CustomHookExample2 />
        </div>
     )
 }
